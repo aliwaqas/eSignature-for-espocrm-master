@@ -1,0 +1,10 @@
+{
+    "name": "WaqasSoft JSignature Pack",
+    "version": "1.0.0",
+    "acceptableVersions": [
+        ">=5.0.0"
+    ],
+    "releaseDate": "2019-09-18",
+    "author": "AliWaqas",
+    "description": "WaqasSoft JSignature Extension for EspoCRM"
+}
